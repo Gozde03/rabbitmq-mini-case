@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq-mini-case-consumer",
+  "version": "1.0.0",
+  "description": "Node.js RabbitMQ consumer for mini technical case",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.4"
+  }
+}

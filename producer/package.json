@@ -1,0 +1,12 @@
+{
+  "name": "rabbitmq-mini-case-producer",
+  "version": "1.0.0",
+  "description": "Simple Node.js RabbitMQ producer script for mini technical case",
+  "main": "send.js",
+  "scripts": {
+    "send": "node send.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.4"
+  }
+}
